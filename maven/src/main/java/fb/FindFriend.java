@@ -25,6 +25,7 @@ public class FindFriend {
 			}
 			
 			//use
+	//open
 				public void findfriend() throws InterruptedException {
 					search.click();
 					Thread.sleep(3000);
